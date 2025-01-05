@@ -3,9 +3,10 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                 name="Help Instance"
+                 name="PickCar Docs"
                  start-page="Overview.md">
 
     <toc-element topic="Overview.md"/>
     <toc-element topic="Architecture.md"/>
+    <toc-element topic="Branching-Workflow.md"/>
 </instance-profile>

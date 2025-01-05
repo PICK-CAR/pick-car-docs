@@ -6,5 +6,10 @@
     <variables>
         <custom-favicons>pick-car-favicons.png</custom-favicons>
     </variables>
+    <build-profile instance="hi">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
 
 </buildprofiles>
