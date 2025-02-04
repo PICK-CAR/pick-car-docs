@@ -9,4 +9,5 @@
     <toc-element topic="Overview.md"/>
     <toc-element topic="Architecture.md"/>
     <toc-element topic="Branching-Workflow.md"/>
+    <toc-element topic="Preview.md"/>
 </instance-profile>
